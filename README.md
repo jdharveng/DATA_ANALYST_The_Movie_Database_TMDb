@@ -1,12 +1,12 @@
 # DATA_ANALYST_The_Movie_Database_TMDb
 Analysis of TMDb dataset containing 10000 movies
-## by Jérôme d'Harveng
+### by Jérôme d'Harveng
 
 
 ## Dataset
 
 > For this analysis, the TMDb dataset has been choosen (originally coming from Kaggle).
-This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
+This dataset contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
 > **Questions Analysed**: After inspecting and cleaning this dataset, we'll focus on 2 aspects:
 > 1. What are the properties of high earning movies? 
@@ -22,6 +22,7 @@ This have an impact on the representativeness of the the remaining dataset in re
 ## Summary of Findings
 
 > After analysing the cleaned dataset TMDb, some observations could be made (taking into account the limitations exposed in 'First Comments').
+
 > ** Q1 - Properties of High Earning Movies:**
 Using scatterplots and verifying with Pearsons Coefficients no linear correlation could be found between:
 vote_average vs earnings_adj nor for release_year vs earnings_adj.
