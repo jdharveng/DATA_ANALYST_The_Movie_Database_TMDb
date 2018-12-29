@@ -23,17 +23,18 @@ This have an impact on the representativeness of the the remaining dataset in re
 
 > After analysing the cleaned dataset TMDb, some observations could be made (taking into account the limitations exposed in 'First Comments').
 
-> ** Q1 - Properties of High Earning Movies:**
+> **Q1 - Properties of High Earning Movies:**
+
 Using scatterplots and verifying with Pearsons Coefficients no linear correlation could be found between:
 vote_average vs earnings_adj nor for release_year vs earnings_adj.
-
 > After having separated High Earning Movies of the Low Earning Movies (based on the mean earning_adj), we could notice that **on the average**:
 > 1. High Earning movies get higher vote_averages
 > 2. High Earning movies last longer
 > 3. High Earning movies were released earlier
 
 
-> ** Q2 - Which genres of movies are released more year after year:**
+> **Q2 - Which genres of movies are released more year after year:**
+
 After separating the different genres in separated column and putting this in graph, we could notice that:
 > 1. Most genres saw their amount of movies released increase year after year
 > 2. Four genres get the most increases: Drama, Comedy, Thriller and Action
