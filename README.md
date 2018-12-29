@@ -21,6 +21,7 @@ This have an impact on the representativeness of the the remaining dataset in re
 ## Summary of Findings
 
 > After analysing the cleaned dataset TMDb, some observations could be made (taking into account the limitations exposed in 'First Comments').
+>
 > **Q1 - Properties of High Earning Movies:**
 > Using scatterplots and verifying with Pearsons Coefficients no linear correlation could be found between:
 vote_average vs earnings_adj nor for release_year vs earnings_adj.
